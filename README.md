@@ -6,7 +6,7 @@
   <a href="https://github.com/er-sufyanMirza">
     <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="YOUR-LINKEDIN-URL">
+  <a href="linkedin.com/in/mirza-sufyan-baig-16aa52425">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
