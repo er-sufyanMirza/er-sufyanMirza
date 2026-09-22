@@ -1,6 +1,6 @@
 #  I'm Sufyan Mirza
 
-### 📊 Data Analyst | Python | SQL | Excel | Power BI | Healthcare Analytics
+### 🤖 AI Engineer | 📊 Data Analyst | RAG | ML | DL | NLP | Python | SQL | Power BI | Healthcare Analytics
 
 <p align="left">
   <a href="https://github.com/er-sufyanMirza">
@@ -11,34 +11,41 @@
   </a>
 </p>
 
-> **Turning data into insights, intelligent solutions, and better decisions.**
+> **Building intelligent systems and turning data into insights — from RAG pipelines to dashboards.**
 
-I’m a **Data Analyst with a strong foundation in Python, SQL, data visualization, machine learning, and healthcare analytics**.
+I'm a **B.Tech AI/ML graduate** working across two connected tracks: **AI Engineering** (building RAG pipelines, NLP systems, and applied ML/DL solutions) and **Data Analytics** (SQL, Python, Power BI, and healthcare analytics). I like projects that sit at the intersection — where a model or pipeline feeds directly into a decision, a dashboard, or a real workflow.
 
-I enjoy working with data throughout its lifecycle — from **data collection, cleaning, transformation, and validation** to **exploratory analysis, SQL querying, visualization, dashboard development, and intelligent modeling**.
-
-My projects span **healthcare analytics, business-oriented data analysis, natural language processing, machine learning, document intelligence, and financial analytics**.
-
-I’m particularly interested in solving real-world problems where data can be transformed into **actionable insights and measurable outcomes**.
+My work spans **retrieval-augmented generation, document intelligence, NLP/BERT-based classification, healthcare analytics, and financial/predictive modeling**.
 
 ---
 
 ## 🧭 What I Do
 
-| 📌 Area | 🔍 Focus |
-|---|---|
-| **Data Analytics** | EDA, KPI analysis, trend analysis, data-driven insights |
-| **SQL** | Joins, aggregations, CTEs, analytical queries |
-| **Python** | Pandas, NumPy, Matplotlib, Scikit-learn |
-| **Business Intelligence** | Power BI, dashboards, reporting & visualization |
-| **Healthcare Analytics** | FHIR, healthcare data, patient & hospital analytics |
-| **Machine Learning** | Classification, clustering, prediction & evaluation |
-| **NLP & AI** | Text classification, BERT, NLP pipelines & LLM applications |
-| **Data Engineering** | ETL, data transformation, databases & analytical workflows |
+| Track | 📌 Area | 🔍 Focus |
+|---|---|---|
+| 🤖 AI Engineer | **LLM / RAG Systems** | Retrieval-augmented generation, multimodal document understanding, vector search |
+| 🤖 AI Engineer | **NLP & Transformers** | BERT, text classification, embeddings, LLM applications |
+| 🤖 AI Engineer | **Machine Learning / Deep Learning** | Classification, clustering, prediction, model evaluation |
+| 📊 Data Analyst | **Data Analytics** | EDA, KPI analysis, trend analysis, data-driven insights |
+| 📊 Data Analyst | **SQL** | Joins, aggregations, CTEs, analytical queries |
+| 📊 Data Analyst | **Business Intelligence** | Power BI, dashboards, reporting & visualization |
+| 📊 Data Analyst | **Healthcare Analytics** | FHIR, patient & hospital analytics |
+| ⚙️ Shared | **Data Engineering** | ETL, transformation, databases, analytical workflows |
 
 ---
 
 # 🛠️ Technical Toolkit
+
+### 🤖 AI / ML / LLM Systems
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</p>
+
+**RAG • BERT • Transformers • NLP Pipelines • Vision-Language Models • Recommendation Systems • Predictive Modeling**
 
 ### 📊 Data Analytics & Business Intelligence
 
@@ -48,23 +55,17 @@ I’m particularly interested in solving real-world problems where data can be t
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
-**Data Analysis • Data Cleaning • EDA • KPI Analysis • Data Visualization • Reporting • Dashboard Development**
-
----
+**Data Cleaning • EDA • KPI Analysis • Data Visualization • Reporting • Dashboard Development**
 
 ### 🐍 Python & Data Science
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
 
-**Pandas • NumPy • Matplotlib • Scikit-learn • Statistical Analysis • Feature Engineering**
-
----
+**Pandas • NumPy • Matplotlib • Statistical Analysis • Feature Engineering**
 
 ### 🗄️ Databases & Data Tools
 
@@ -80,205 +81,117 @@ I’m particularly interested in solving real-world problems where data can be t
 
 ---
 
-### 🤖 Machine Learning & AI
-
-<p>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-</p>
-
-**Classification • Clustering • NLP • BERT • Transformers • Recommendation Systems • RAG • Predictive Modeling**
-
----
-
 # 🚀 Featured Projects
 
+*Ordered to lead with AI/LLM engineering work, followed by data analytics work — with CareSight bridging both.*
+
 ## 🏥 01 — CareSight
-
 ### FHIR-Based Hospital Analytics & Patient Readmission Intelligence
+*Relevant to: 🤖 AI Engineer · 📊 Data Analyst*
 
-**CareSight** is a healthcare analytics platform designed around **FHIR-based healthcare data**, combining data engineering, analytics, and business intelligence to transform clinical data into actionable insights.
+**CareSight** is a healthcare analytics platform built around **FHIR-based healthcare data**, combining data engineering, analytics, and business intelligence to turn clinical data into actionable insights.
 
-### 🔍 Key Areas
+**Key Areas:** FHIR healthcare data · Python-based data processing · PostgreSQL database · SQL analytics · patient & encounter analysis · readmission intelligence · healthcare KPIs · data validation · Power BI analytics
 
-- FHIR healthcare data
-- Python-based data processing
-- Healthcare data transformation
-- PostgreSQL database
-- SQL analytics
-- Patient and encounter analysis
-- Readmission intelligence
-- Healthcare KPIs
-- Data validation
-- Power BI analytics
-
-### 🧰 Technologies
-
-`Python` `FHIR` `PostgreSQL` `SQL` `Power BI` `Pandas`
+**Technologies:** `Python` `FHIR` `PostgreSQL` `SQL` `Power BI` `Pandas`
 
 🔗 **[View CareSight →](https://github.com/er-sufyanMirza/Care-Sight)**
 
 ---
 
-## 🤖 02 — AI Resume Screening
-
-### Intelligent Resume Analysis & Candidate Ranking
-
-An AI-powered resume screening system designed to automate candidate evaluation by extracting relevant information from resumes and comparing candidate profiles against job requirements.
-
-### 🔍 Key Areas
-
-- Resume parsing
-- Skill extraction
-- Education analysis
-- Experience analysis
-- Job description matching
-- Candidate ranking
-- Fit-score generation
-- NLP-based analysis
-
-### 🧰 Technologies
-
-`Python` `NLP` `Machine Learning` `AI`
-
-🔗 **[View AI Resume Screening →](https://github.com/er-sufyanMirza/AI-resume-screening)**
-
----
-
-## 📰 03 — Fake News Classification
-
-### Multi-Model NLP Classification & Explainable Detection
-
-A production-oriented fake news detection system combining **TF-IDF, BERT, ensemble classification, linguistic analysis, and monitoring** to identify potentially misleading or manipulated content.
-
-### 🔍 Key Areas
-
-- TF-IDF classification
-- BERT-based classification
-- Ensemble modeling
-- NLP preprocessing
-- Sensationalism analysis
-- Clickbait detection
-- Emotion scoring
-- Linguistic explainability
-- Model monitoring
-- Real-time analysis
-
-### 🧰 Technologies
-
-`Python` `NLP` `BERT` `TF-IDF` `Machine Learning`
-
-🔗 **[View Fake News Classification →](https://github.com/er-sufyanMirza/fake-news-classification)**
-
----
-
-## 📄 04 — Multimodal Document Intelligence
-
+## 📄 02 — Multimodal Document Intelligence
 ### Multimodal RAG for Complex Enterprise Documents
+*Relevant to: 🤖 AI Engineer*
 
-A multimodal document intelligence system designed to work with enterprise documents where valuable information may exist beyond plain text — including **tables, charts, diagrams, and visual layouts**.
+A multimodal document intelligence system for enterprise documents where valuable information lives beyond plain text — in **tables, charts, diagrams, and visual layouts** — exploring how multimodal retrieval improves extraction and RAG.
 
-The project explores how multimodal retrieval can improve information extraction and retrieval-augmented generation for complex documents.
+**Key Areas:** multimodal document understanding · retrieval-augmented generation · visual information retrieval · table understanding · chart & diagram analysis · document parsing · enterprise document intelligence
 
-### 🔍 Key Areas
-
-- Multimodal document understanding
-- Retrieval-Augmented Generation
-- Visual information retrieval
-- Table understanding
-- Chart and diagram analysis
-- Document parsing
-- Enterprise document intelligence
-- AI-powered information retrieval
-
-### 🧰 Technologies
-
-`Python` `RAG` `Document AI` `Vision-Language Models`
+**Technologies:** `Python` `RAG` `Document AI` `Vision-Language Models`
 
 🔗 **[View Multimodal Document Intelligence →](https://github.com/er-sufyanMirza/multi-modal-doc-intel-sys)**
 
 ---
 
-## 📈 05 — Stock Price Prediction
+## 🤖 03 — AI Resume Screening
+### Intelligent Resume Analysis & Candidate Ranking
+*Relevant to: 🤖 AI Engineer*
 
+An AI-powered resume screening system that automates candidate evaluation by extracting information from resumes and comparing profiles against job requirements.
+
+**Key Areas:** resume parsing · skill extraction · education & experience analysis · job description matching · candidate ranking · fit-score generation · NLP-based analysis
+
+**Technologies:** `Python` `NLP` `Machine Learning` `AI`
+
+🔗 **[View AI Resume Screening →](https://github.com/er-sufyanMirza/AI-resume-screening)**
+
+---
+
+## 📰 04 — Fake News Classification
+### Multi-Model NLP Classification & Explainable Detection
+*Relevant to: 🤖 AI Engineer*
+
+A production-oriented fake news detection system combining **TF-IDF, BERT, ensemble classification, linguistic analysis, and monitoring** to flag potentially misleading content.
+
+**Key Areas:** TF-IDF classification · BERT-based classification · ensemble modeling · NLP preprocessing · sensationalism/clickbait detection · emotion scoring · linguistic explainability · model monitoring · real-time analysis
+
+**Technologies:** `Python` `NLP` `BERT` `TF-IDF` `Machine Learning`
+
+🔗 **[View Fake News Classification →](https://github.com/er-sufyanMirza/fake-news-classification)**
+
+---
+
+## 📈 05 — Stock Price Prediction
 ### Financial Data Analysis & Predictive Modeling
+*Relevant to: 📊 Data Analyst · 🤖 AI Engineer*
 
 An end-to-end financial analytics project exploring historical market data, technical indicators, machine learning, deep learning, sentiment analysis, and predictive modeling.
 
-### 🔍 Key Areas
+**Key Areas:** financial data analysis · data preprocessing · feature engineering · technical indicators · sentiment analysis · time-series modeling · predictive analytics · model evaluation
 
-- Financial data analysis
-- Data preprocessing
-- Feature engineering
-- Technical indicators
-- Sentiment analysis
-- Machine learning
-- Time-series modeling
-- Predictive analytics
-- Model evaluation
-
-### 🧰 Technologies
-
-`Python` `Pandas` `NumPy` `Machine Learning` `Deep Learning`
+**Technologies:** `Python` `Pandas` `NumPy` `Machine Learning` `Deep Learning`
 
 🔗 **[View Stock Price Prediction →](https://github.com/er-sufyanMirza/stock-price-prediction)**
 
 ---
 
 ## 📊 06 — Clustering Analysis
-
 ### Comparative Unsupervised Learning & Data Segmentation
+*Relevant to: 📊 Data Analyst*
 
-A comparative implementation and exploration of multiple clustering techniques to understand patterns and segmentation within structured datasets.
+A comparative implementation of multiple clustering techniques to understand patterns and segmentation within structured datasets.
 
-### 🔍 Key Areas
+**Key Areas:** exploratory data analysis · unsupervised learning · K-Means · K-Medoids · K-Modes · cluster analysis · data segmentation · comparative model analysis
 
-- Exploratory Data Analysis
-- Unsupervised learning
-- K-Means clustering
-- K-Medoids clustering
-- K-Modes clustering
-- Cluster analysis
-- Data segmentation
-- Comparative model analysis
-
-### 🧰 Technologies
-
-`Python` `Pandas` `NumPy` `Scikit-learn`
+**Technologies:** `Python` `Pandas` `NumPy` `Scikit-learn`
 
 🔗 **[View Clustering Project →](https://github.com/er-sufyanMirza/clustering-using-kNN-KMeans-KMedoid-Kmode)**
 
 ---
 
-# 🔄 My Data Analytics Workflow
+# 🔄 My Workflow
 
 ```text
-                  RAW DATA
-                     │
-                     ▼
-             Data Understanding
-                     │
-                     ▼
-           Cleaning & Validation
-                     │
-                     ▼
-              Transformation
-                     │
-                     ▼
-             SQL / Python Analysis
-                     │
-                     ▼
-        Exploratory Data Analysis
-                     │
-                     ▼
-          Visualization & KPIs
-                     │
-                     ▼
-            Dashboards / Reports
-                     │
-                     ▼
-             Business Insights
-                     │
-                     ▼
-            Data-Driven Decisions
+                  RAW DATA / DOCUMENTS
+                          │
+                          ▼
+                Understanding & Parsing
+                          │
+                          ▼
+              Cleaning, Validation & ETL
+                          │
+              ┌───────────┴───────────┐
+              ▼                       ▼
+    Modeling / RAG / NLP      SQL / Python Analysis
+    (AI Engineering track)    (Data Analyst track)
+              │                       │
+              ▼                       ▼
+    Evaluation & Deployment   EDA, KPIs & Visualization
+              │                       │
+              └───────────┬───────────┘
+                          ▼
+              Dashboards / Reports / Applications
+                          │
+                          ▼
+              Business Insights & Decisions
+```
